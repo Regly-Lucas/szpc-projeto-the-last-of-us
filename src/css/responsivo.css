@@ -1,0 +1,23 @@
+@media (max-width: 1280px){
+	body{
+		padding: 0 40px;
+	 }	
+	}
+
+@media (max-width: 768px){
+	.informacoes{
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+
+	}
+}	
+
+@media (max-width: 768px){
+	.paragrafo{
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+
+	}
+}	
